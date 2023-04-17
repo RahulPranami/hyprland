@@ -158,3 +158,4 @@ eval "$(starship init zsh)"
 
 # Neofetch 
 # neofetch
+export PATH=$PATH:/home/rahul/.spicetify

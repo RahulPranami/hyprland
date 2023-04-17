@@ -15,8 +15,8 @@
         "wlr/workspaces"
     ],
     "modules-center": [
-        "custom/window-name"
-        // "hyprland/window"
+        // "custom/window-name"
+        "hyprland/window"
     ],
     "modules-right": [
         "custom/updates",
